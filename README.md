@@ -33,7 +33,7 @@ Colab course materials for the UChicago course MENG15100: Machine Learning and A
 
 Computational lab modules to put into practice the machine learning concepts and tools covered in the course lectures.
 
-You can access the lab modules by clicking on the Colab buttons below. In general, however, you will want to download the Ln directories (e.g., L1, L2, ...) containing the associated .ipynb files and any additional requried files and uploading to your own Google Drive to run in Colab. That way you can keep your own copy and work at your own pace. **Make sure to save your work often!**
+You can access the lab modules by clicking on the Colab buttons below. In general, however, you will want to download the `Ln` directories (e.g., `L1`, `L2`, ...) containing the associated .ipynb files and any additional requried files from the `./labs` directory in the file navigation tree above and uploading to your own Google Drive to run in Colab. That way you can keep your own copy and work at your own pace. **Make sure to save your work often!**
 
 ### Lab 1 - Google Colab w/ Python
 
