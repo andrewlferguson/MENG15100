@@ -105,7 +105,7 @@ def load_full_dataset(save_csv: bool = False) -> pd.DataFrame:
     # ============================================================
     #url = "https://cran.r-project.org/src/contrib/rcdk_3.8.1.tar.gz"
     #url = "https://cran.r-project.org/src/contrib/Archive/rcdk/rcdk_3.8.1.tar.gz"
-    url = "https://github.com/andrewlferguson/MENG15100/blob/main/labs/L2/rcdk_3.8.1.tar.gz"
+    url = "https://github.com/andrewlferguson/MENG15100/raw/refs/heads/main/labs/L2/rcdk_3.8.1.tar.gz"
     resp = requests.get(url, timeout=60)
     resp.raise_for_status()
 
